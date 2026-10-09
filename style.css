@@ -78,7 +78,7 @@ body {
 .work-info a div {
   justify-items: center;
   align-content: center;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(6px);
   width: 70px;
   height: 35px;
   border-radius: 20px;
