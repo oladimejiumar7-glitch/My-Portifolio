@@ -3,6 +3,14 @@
   margin: 0%;
   color: white;
 }
+html {
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
 body {
   /* background-image: url(./assets/dark\ sky.JPG); */
   background-image:
