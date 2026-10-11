@@ -471,6 +471,7 @@ body {
     flex: 0 0 auto;
     gap: 2px;
     padding: 0 3px;
+    display: none;
   }
   .work-info a {
     font-size: 14px;
