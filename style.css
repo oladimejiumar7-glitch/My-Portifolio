@@ -196,7 +196,7 @@ body {
 }
 .aboutme-header h2 {
   color: rgb(155, 152, 152);
-  font-family: cursive;
+  font-family: monospace;
 }
 .aboutme-details {
   justify-self: center;
@@ -214,13 +214,13 @@ body {
   align-content: center;
   p {
     transition: all 0.5s ease;
-    font-family: cursive;
+    font-family: monospace;
     color: rgb(155, 152, 152);
     inline-size: 70%;
   }
   li {
     transition: all 0.5s ease;
-    font-family: cursive;
+    font-family: monospace;
     color: rgb(155, 152, 152);
   }
 }
