@@ -470,12 +470,13 @@ body {
     height: 38px;
     flex: 0 0 auto;
     gap: 2px;
-    /* padding: 0 3px; */
+    padding: 0 3px;
   }
   .work-info a {
     font-size: 14px;
   }
   .work-info a div {
+    justify-content: center;
     width: 46px;
     height: 30px;
   }
